@@ -1,0 +1,21 @@
+.cl1 {
+  border: 2px solid pink;
+}
+.cl2 {
+  border: 2px solid blue;
+}
+.cl3 {
+  border: 2px solid green;
+}
+
+.cl3a {
+  background-color: lightcoral;
+  border-radius: 10px;
+  box-shadow: 0px 10px 16px 16px rgba(222, 205, 205, 0.75);
+}
+
+.cl3b {
+  background-color: lightcyan;
+  border-radius: 10px;
+  box-shadow: 0px 10px 16px 16px rgba(222, 205, 205, 0.75);
+}
